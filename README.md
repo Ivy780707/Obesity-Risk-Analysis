@@ -5,7 +5,7 @@ This study analyzes various factors that influence an individual's risk of obesi
 
 ## 📂 Project Structure
 ```bash
-├── 📄 README.md # Project documentation  
+├── 📄 README.md # This documentation  
 ├── 📄 EDA.ipynb # Jupyter Notebook of exploratory data analysis 
 ├── 📄 model.py # Model training and evaluation 
 ├── 📄 requirements.txt # List of dependencies
