@@ -7,7 +7,7 @@ This study analyzes various factors that influence an individual's risk of obesi
 ```bash
 ├── 📄 README.md # This documentation  
 ├── 📄 EDA.ipynb # Jupyter Notebook of exploratory data analysis 
-├── 📄 model.py # Model training and evaluation 
+├── 📄 model.ipynb # Model training and evaluation 
 ├── 📄 requirements.txt # List of dependencies
 ```
 
